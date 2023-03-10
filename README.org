@@ -1,0 +1,10 @@
+#+title: Top Movies
+
+A project to organize, rank and sort your watched movies. Give your movies a rating and a review. Quickly sort to find you favourite movies or shows. Simple search your movie, and the website will pull in all the relevant metadata for you!
+
+
+* Hosting locally
+** TODO make a dockerfile for this.
+
+
+* TO-DO list
