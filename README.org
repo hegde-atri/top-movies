@@ -2,9 +2,19 @@
 
 A project to organize, rank and sort your watched movies. Give your movies a rating and a review. Quickly sort to find you favourite movies or shows. Simple search your movie, and the website will pull in all the relevant metadata for you!
 
+For now I have not taken into account SEO, if you want to see my SEO skills, checkout my [[https://github.com/hegde-atri/hegdeatri-dot-com][personal website's repository]].
+
+* TO-DO list
+** Backend
+- [ ] Connect DB to API proj.
+- [ ] Study movie/show info API.
+** Frontend
+- [ ] Navbar.
+- [ ] Movie info page.
+- [ ] TV Shows page. (different as I need to track seasons and episodes as well).
+- [ ] Login functionality/persistance.
+
+
 
 * Hosting locally
 ** TODO make a dockerfile for this.
-
-
-* TO-DO list
